@@ -1,0 +1,6 @@
+<mule xmlns="http://www.mulesoft.org/schema/mule/core"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:gh--test="http://www.mulesoft.org/schema/mule/gh--test"
+      xsi:schemaLocation="http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd
+          http://www.mulesoft.org/schema/mule/gh--test http://www.mulesoft.org/schema/mule/gh--test/current/mule-gh--test.xsd">
+</mule>
